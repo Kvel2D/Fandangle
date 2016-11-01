@@ -1,0 +1,7 @@
+land
+sleep 60
+jump 10
+jumpright 15
+land
+sleep 10
+goto 3

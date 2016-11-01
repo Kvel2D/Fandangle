@@ -1,0 +1,4 @@
+up 3
+if yposition < 642
+	goto 1
+right 300

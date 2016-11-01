@@ -1,0 +1,4 @@
+right 80
+left 240
+right 300
+goto 2

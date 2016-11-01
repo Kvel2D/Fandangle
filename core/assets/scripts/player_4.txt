@@ -1,0 +1,27 @@
+sleep 23
+right 35
+sleep 20
+right 18
+sleep 25
+right 11
+sleep 12
+right 10
+sleep 58
+right 10
+if xposition < 700
+	goto 10
+jumpright 10
+land
+jumpright 16
+land
+right 18
+land
+right 8
+jumpright 11
+right 20
+jumpright 50
+land
+sleep 10
+if xposition < 2000
+	goto 22
+right 100

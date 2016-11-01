@@ -1,0 +1,3 @@
+right 200
+left 200
+goto 1
